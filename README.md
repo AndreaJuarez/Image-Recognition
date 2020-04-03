@@ -1,6 +1,6 @@
-# teachable_machine
+# IMAGE RECOGNITION
 
-A new Flutter application.
+Aplicación con entrenamiento de imagenes mediante Teachable Machine.
 
 ## Getting Started
 
