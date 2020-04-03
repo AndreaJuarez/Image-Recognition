@@ -1,0 +1,5 @@
+0 Mickey
+1 Minnie
+2 Donald
+3 Daisy
+4 Pluto
